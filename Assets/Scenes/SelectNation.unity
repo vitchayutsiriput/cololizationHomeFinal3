@@ -690,7 +690,23 @@ PrefabInstance:
     - target: {fileID: 7179808039768067664, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 50db9d26fef5fb04c987e51e0dc4e5d5, type: 3}
+      objectReference: {fileID: 21300000, guid: 75f9ac1ba850cd348a20ed62410d30ed, type: 3}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 61.8063
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 82.7038
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 149.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1.8751
+      objectReference: {fileID: 0}
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: Spain
@@ -1217,7 +1233,23 @@ PrefabInstance:
     - target: {fileID: 7179808039768067664, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: cde3cc6a9d1aec74f840a14daf33e1af, type: 3}
+      objectReference: {fileID: 21300000, guid: 8d6554004fce7e64d95b1604fb5270e0, type: 3}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 58.8248
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 79.5325
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 145.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.0000076294
+      objectReference: {fileID: 0}
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: Netherland
@@ -1616,7 +1648,23 @@ PrefabInstance:
     - target: {fileID: 7179808039768067664, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: e4fb0e4398aa49d4e8913d45b6934ac1, type: 3}
+      objectReference: {fileID: 21300000, guid: 3acdae60960651a4aa7b8b63491f51e6, type: 3}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 65.815
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 81.957
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 146.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.000045776
+      objectReference: {fileID: 0}
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: France
@@ -1965,7 +2013,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1637660196}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.8825249
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2047,7 +2095,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.09417312}
+  m_AnchoredPosition: {x: 0, y: 0.0001761824}
   m_SizeDelta: {x: 0, y: 715}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &764300020
@@ -2320,7 +2368,23 @@ PrefabInstance:
     - target: {fileID: 7179808039768067664, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 809f14395ada5e346821e3a9264e1f42, type: 3}
+      objectReference: {fileID: 21300000, guid: c315b49ca4b0fa64ba0afc5ff6fa0df5, type: 3}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 59.5975
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 78.848
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 145
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.000011444
+      objectReference: {fileID: 0}
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: England
@@ -4966,7 +5030,23 @@ PrefabInstance:
     - target: {fileID: 7179808039768067664, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 0c87899a2b6da7f42852a62c077be706, type: 3}
+      objectReference: {fileID: 21300000, guid: a8b468a3bf4341347919634558930985, type: 3}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 61.4717
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 80.5869
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 145.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327632150424689695, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1.0805
+      objectReference: {fileID: 0}
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: Portugal
