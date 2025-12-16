@@ -587,6 +587,10 @@ PrefabInstance:
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 5.9
+      objectReference: {fileID: 0}
     - target: {fileID: 6624834081018018130, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -674,6 +678,26 @@ PrefabInstance:
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: Spain
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSize
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -3630471250581106238, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8823349842113238362, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Name
@@ -1070,6 +1094,14 @@ PrefabInstance:
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 6624834081018018130, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1157,6 +1189,26 @@ PrefabInstance:
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: Netherland
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSize
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -3630471250581106238, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8823349842113238362, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Name
@@ -1413,6 +1465,22 @@ PrefabInstance:
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.3701
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 63.9136
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.000024319
+      objectReference: {fileID: 0}
     - target: {fileID: 6624834081018018130, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1501,6 +1569,38 @@ PrefabInstance:
       propertyPath: m_text
       value: France
       objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSize
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_margin.w
+      value: 8.793762
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_margin.y
+      value: 0.57647705
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -3630471250581106238, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8823349842113238362, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Name
       value: NationCard-France
@@ -1549,8 +1649,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -40}
-  m_SizeDelta: {x: 400, y: 60}
+  m_AnchoredPosition: {x: 13, y: -15}
+  m_SizeDelta: {x: 400, y: 57.3529}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &638865082
 MonoBehaviour:
@@ -1574,8 +1674,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Choose Nation
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+  m_sharedMaterial: {fileID: -3630471250581106238, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1599,8 +1699,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 150
+  m_fontSizeBase: 150
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1637,7 +1737,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -135.00195, y: 0, z: -93.971985, w: -13.235535}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1809,7 +1909,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1637660196}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.9999969
+  m_Size: 0.99999183
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1891,7 +1991,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.000050392347}
+  m_AnchoredPosition: {x: 0, y: 0.00087523233}
   m_SizeDelta: {x: 0, y: 715}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &764300020
@@ -2057,6 +2157,14 @@ PrefabInstance:
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -7.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6624834081018018130, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2144,6 +2252,34 @@ PrefabInstance:
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: England
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSize
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_margin.y
+      value: -43.48883
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -3630471250581106238, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_characterSpacing
+      value: 1.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8823349842113238362, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Name
@@ -3786,7 +3922,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -10}
+  m_AnchoredPosition: {x: -193, y: 25}
   m_SizeDelta: {x: 600, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1503001411
@@ -3811,8 +3947,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Create Game
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+  m_sharedMaterial: {fileID: -3630471250581106238, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3836,8 +3972,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 64
-  m_fontSizeBase: 64
+  m_fontSize: 250
+  m_fontSizeBase: 250
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3874,7 +4010,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -304.3391, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4647,6 +4783,14 @@ PrefabInstance:
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 91
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853382556676178094, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 6624834081018018130, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -4734,6 +4878,26 @@ PrefabInstance:
     - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_text
       value: Portugal
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSize
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -3630471250581106238, guid: 64e10c5cbcce14948be57c7f84eb2476, type: 2}
+    - target: {fileID: 8249530825697179074, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8823349842113238362, guid: ba947cc66cf421547ad1de9b57845c87, type: 3}
       propertyPath: m_Name
