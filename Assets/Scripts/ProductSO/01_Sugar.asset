@@ -15,6 +15,6 @@ MonoBehaviour:
   id: 1
   productName: Sugar
   icons:
-  - {fileID: 21300000, guid: e7c00201d0042724bb7ad5f38b38f5e6, type: 3}
+  - {fileID: 21300000, guid: cadec9a2ee4ec734d9e41a28c2102dc3, type: 3}
   startBid: 4
   startAsk: 6
